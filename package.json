@@ -1,18 +1,18 @@
 {
-  "name": "@viperswap/lib",
-  "version": "1.0.1",
-  "description": "📖 Solidity libraries that are shared across Viperswap contracts",
+  "name": "@venomswap/lib",
+  "version": "1.0.0",
+  "description": "📖 Solidity libraries that are shared across Venomswap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://viper.exchange",
+  "homepage": "https://venomdao.org",
   "repository": {
-    "url": "https://github.com/ViperProtocol/viperswap-lib",
+    "url": "https://github.com/VenomProtocol/venomswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/ViperProtocol/viperswap-lib/issues"
+    "url": "https://github.com/VenomProtocol/venomswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
