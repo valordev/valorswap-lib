@@ -5,7 +5,7 @@
   "files": [
     "contracts",
     "!contracts/test"
-  ],  
+  ],
   "repository": {
     "url": "https://github.com/ValorSwap/valorswap-lib",
     "type": "git"
